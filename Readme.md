@@ -29,4 +29,28 @@ En esta lección se crea un formulario simple de contacto. Consta de un único f
 
 ### <a href="Mod 1 Lección 1 y 3">Lección 3: Creating a Web Application by Using Visual Studio 2017</a>
 
-En sesta lección se retoma el formulario de la lección 1 del módulo 1 y se le añade una hoja de estilos.
+En esta lección se retoma el formulario de la lección 1 del módulo 1 y se le añade una hoja de estilos.
+
+## Module 2: Creating and Styling HTML Pages
+
+En este módulo se genera una página incluyendo una cabecera con logotipo y un formulario de contacto.
+
+Aunque este módulo se compone de dos lecciones, dado que una es continuación de la otra, están resueltas en un mismo proyecto.
+
+### <a href="Mod 2 Lección 1 y 2">Lección 1: Creating an HTML5 Page</a>
+
+En esta lección se crea una página que constará de una cabecera con logotipo y de un formulario de contacto. Se incluyen etiquetas semánticas en el código de la página.
+
+### <a href="Mod 2 Lección 1 y 2">Lección 2: Styling an HTML5 Page</a>
+
+En esta lección se retoma el formulario de la lección 1 del módulo 2 y se le añade una hoja de estilos.
+
+## Module 3: Introduction to JavaScript
+
+En este módulo se realizan pruebas generales sobre diferentes elementos de JavaScript.
+
+### <a href="Mod 3 Lección 1">Lección 1: Overview of JavaScript</a>
+
+En esta lección se crea una página para incluir un fichero JavaScript que permite realizar pruebas que incluyen definición de variables, matrices y funciones.
+
+Los resultados, se pueden visualizar mediante las herramientas de desarrollador del navegador en la pestaña de Consola.
