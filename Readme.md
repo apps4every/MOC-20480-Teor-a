@@ -27,6 +27,6 @@ Aunque este módulo se compone de dos lecciones, dado que una es continuación d
 
 En esta lección se crea un formulario simple de contacto. Consta de un único fichero html con el formulario de contacto.
 
-### Lección 3: Creating a Web Application by Using Visual Studio 2017
+### <a href="Mod 1 Lección 1 y 3">ección 3: Creating a Web Application by Using Visual Studio 2017</a>
 
 En sesta lección se retoma el formulario de la lección 1 del módulo 1 y se le añade una hoja de estilos.
