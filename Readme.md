@@ -1,4 +1,4 @@
-﻿﻿# Teoría 20480: Programming in HTMLS with JavaScript and CSS3 
+# Teoría 20480: Programming in HTMLS with JavaScript and CSS3 
 
 **Objetivo/s**
 
