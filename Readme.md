@@ -54,3 +54,13 @@ En este módulo se realizan pruebas generales sobre diferentes elementos de Java
 En esta lección se crea una página para incluir un fichero JavaScript que permite realizar pruebas que incluyen definición de variables, matrices y funciones.
 
 Los resultados, se pueden visualizar mediante las herramientas de desarrollador del navegador en la pestaña de Consola.
+
+## Module 5: Communicating with a Remote Server
+
+En este módulo se realizan pruebas para comunicar una página web con servidores remotos.
+
+### <a href="Mod 5 Leccion 3">Lección 3: Sending and Receiving Data by Using Fetch API</a>
+
+En esta lección se crea una página para incluir un fichero JavaScript que permite realizar una conexión con el api de un servidor remoto y obtener una lista de valores para posteriormente mostrarlos en pantalla.
+
+Los resultados, de forma dinámica se crean en la página web.
