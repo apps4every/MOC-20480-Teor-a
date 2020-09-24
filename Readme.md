@@ -64,3 +64,18 @@ En este módulo se realizan pruebas para comunicar una página web con servidore
 En esta lección se crea una página para incluir un fichero JavaScript que permite realizar una conexión con el api de un servidor remoto y obtener una lista de valores para posteriormente mostrarlos en pantalla.
 
 Los resultados, de forma dinámica se crean en la página web.
+
+## Module 6: Styling HTML5 by Using CSS3
+
+En este módulo se realizan pruebas para formatear una página html5 mediante css estilos en el propio html.
+
+### <a href="Mod 6 Leccion 2">Lección 2: Styling Block Elements</a>
+
+En esta lección se crea una página y se aplican estilos a diferentes elementos de la página como: 
+
+- body
+- article
+- div
+- hijos de un div
+
+El objetivo adicional es modificar los valores de los estilos asignados mediante las herramientas de depuración del navegador.
