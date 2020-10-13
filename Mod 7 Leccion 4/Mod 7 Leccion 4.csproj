@@ -67,10 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Document.html" />
     <Content Include="image-20201013172646218.png" />
     <Content Include="image-20201013172829742.png" />
     <Content Include="image-20201013173553386.png" />
     <Content Include="image-20201013174116339.png" />
+    <Content Include="jquery-1.5.1.js" />
+    <Content Include="MyStylesheet.css" />
+    <Content Include="script.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
